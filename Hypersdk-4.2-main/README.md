@@ -155,8 +155,7 @@ perform import on destination (y/n): y
 22u9zvTa8cRX7nork3koubETsKDn43ydaVEZZWMGcTDerucq4b to: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp source assetID: TKN output assetID: 2rST7KDPjRvDxypr6Q4SwfAwdApLwKXuukrSc42jA3dQDgo7jx value: 10000000000 reward: 10000000000 return: false
 ✔ switch default chain to destination (y/n): y
 ```
-## Loom Video Explanation 
-https://www.loom.com/share/d55ccb76ee5b4bc3a74bbf97f8aae5cf?sid=6239daa9-c625-445a-9ba9-394f422d09c9
+
 
 
 
